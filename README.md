@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karan-Hora
-- 👀 I’m interested in DSA, block chain devand in solving problem
+- 👀 I’m interested in DSA, Web dev, Front End dev ,Backen dev and in  problem solving
 - 🌱 I’m currently learning  advanced DSA topic and block chain
 - 💞️ I’m looking to collaborate on  DSA
 - 📫 How to reach me ...
